@@ -2,7 +2,9 @@
     "name": "Pepengineers.PEPAutoSave",
     "rootNamespace": "Pepengineers",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

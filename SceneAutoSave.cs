@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 
-namespace UnityPatches
+namespace Pepengineers
 {
 	[InitializeOnLoad]
 	internal static class SceneAutoSave
